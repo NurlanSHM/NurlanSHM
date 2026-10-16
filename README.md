@@ -1,6 +1,6 @@
 # Hi, I'm Nurlan 👋
 
-Student developer learning by building — mostly Python, plus C++ and TypeScript.
+Student developer learning by building — mostly Python, plus C++
 
 ## What I'm working on
 
