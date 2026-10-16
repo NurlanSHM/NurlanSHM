@@ -4,7 +4,7 @@ Student developer learning by building — mostly Python, plus C++
 
 ## What I'm working on
 
-- **AI / chatbots** — experimenting with LLMs and fine-tuning
+- **AI / chatbots** — experimenting with Local LLMs and fine-tuning
 - **Games** — small games built with AI assistance
 - **Fundamentals** — C++ and Python basics
 
