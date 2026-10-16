@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nurlan 👋
 
-<!--
-**NurlanSHM/NurlanSHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student developer learning by building — mostly Python, plus C++ and TypeScript.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI / chatbots** — experimenting with LLMs and fine-tuning
+- **Games** — small games built with AI assistance
+- **Fundamentals** — C++ and Python basics
+
+## Languages & tools
+
+`Python` `C++` `TypeScript` `PyTorch` `Hugging Face Transformers`
+
+## Featured projects
+
+- [LLMs-by-me](https://github.com/NurlanSHM/LLMs-by-me)
+- [Created-Games-using-AI](https://github.com/NurlanSHM/Created-Games-using-AI)
+- [CPP](https://github.com/NurlanSHM/CPP)
