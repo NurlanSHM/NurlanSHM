@@ -6,7 +6,7 @@ Student developer learning by building — mostly Python, plus C++
 
 - **AI / chatbots** — experimenting with Local LLMs and fine-tuning
 - **Games** — small games built with AI assistance
-- **Fundamentals** — C++ and Python basics
+- **Fundamentals** — C++ and Python knowledge
 
 ## Languages & tools
 
